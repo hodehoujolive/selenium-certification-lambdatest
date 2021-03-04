@@ -1455,3 +1455,5 @@ TimedPromise@chrome://marionette/content/sync.js:216:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1614866945074	Marionette	INFO	Stopped listening on port 46381
+1614869373900	geckodriver	INFO	Listening on 127.0.0.1:35703
+1614870421676	geckodriver	INFO	Listening on 127.0.0.1:45151
