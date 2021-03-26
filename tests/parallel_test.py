@@ -4,8 +4,8 @@ from threading import Thread
 from selenium import webdriver
 
 
-username = os.environ.get("jolivehodehou7")
-access_key = os.environ.get("wXBr7dXjk8RuxZ37rjkXGC39EFSjfuUJKGAIjIobjoskoJHpw5")
+username = os.environ.get("####")
+access_key = os.environ.get("####")
 
 
 def get_browser(caps):
