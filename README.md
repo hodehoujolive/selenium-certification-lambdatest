@@ -1,5 +1,5 @@
 # selenium_101_certification
-## Welcome to ![LambdaTest Logo](https://github.com/hodehoujolive/selenium_101_certification/blob/master/S101-NH5B2N.jpeg) - Python-UnitTest-Selenium Sample
+![LambdaTest Logo](https://github.com/hodehoujolive/selenium_101_certification/blob/master/S101-NH5B2N.jpeg)
 --- 
 
 ### Step 1 : Environment Setup
